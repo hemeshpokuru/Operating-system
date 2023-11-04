@@ -71,22 +71,6 @@ step2:-Initialise an empty queue to store process\
 step3:-while there are processed in queue or any process has remaining bursttime\
 step4:-End of program
 
-9.the concept of interprocess communication using shared memory with c program\
-Algorithm:- step1:-create shared memory segment to process\
-step2:-Attach share memory segment to process\
-step3:-Read\write data to\from sharedmemory\
-step4:-Detach share memory segment\
-step5:-Remove shared memory segment\
-step6:-End of program
-
-10.cprogram for interprocessing communication using messagequeue\
-Algorithm:-\
-step1:-create a message queue\
-step2:-send a message\
-step3:-Recieve a message\
-step4:-Remove the message queue\
-step5:-End of program
-
 11.c program for multithreading Algoritm:-\
 step1:-Include necessary header file\
 step2:-Define the threadfunction\
