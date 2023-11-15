@@ -194,3 +194,13 @@ step3:-Initiate memory blocks\
 step4:-calculate for the first fit among the given\
 step5:-allocate memory from process\
 step6:-End of program 
+
+
+24.Algorithm for cprogram to calculate and print if the byte size is present\
+Algorithm:-\
+step1:-Include all the header files requried\
+step2:-Initialize all the variables and the characters requried\
+step3:-Get the inout in the code\
+step4:-Calculate the bytes value of the given input\
+step5:-if the bytes values is greater than 0 display the values of bytes and the input data\
+step6:-End of program 
